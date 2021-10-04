@@ -10,7 +10,7 @@ body, .bg-dark {
 .navbar .form-control {
     background-color: #1b1b1b!important;
     color: #fff;
-    border-color: #fff;
+    border-color: #343a402b;
     border-radius: 0;
     max-width: 115px;
     line-height: 28px;
